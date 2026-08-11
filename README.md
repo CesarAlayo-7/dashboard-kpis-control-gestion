@@ -2,7 +2,6 @@
 
 Dashboard ejecutivo en Power BI que simula el reporte mensual de un área de **Control de Gestión**: seguimiento de CAPEX/OPEX (presupuestado vs. real) e indicadores operativos clave (KPIs) por planta, orientado a la toma de decisiones de la alta dirección.
 
-![Dashboard preview](screenshots/dashboard_overview.png)
 
 ## 🎯 Objetivo del proyecto
 
@@ -50,13 +49,6 @@ Un dashboard de una sola vista que permite identificar en segundos:
 - Qué planta está por encima o por debajo de su presupuesto de CAPEX/OPEX.
 - Qué indicadores operativos están fuera de meta y requieren atención.
 - La tendencia mensual del gasto y su proyección.
-
-## 🚀 Cómo usarlo
-
-1. Descarga [`Dataset_Control_Gestion_2025.xlsx`](Dataset_Control_Gestion_2025.xlsx).
-2. Ábrelo en Power BI Desktop (`Obtener datos → Excel`).
-3. Importa las hojas `Datos_CAPEX_OPEX` y `KPIs_Operativos`.
-4. Replica las medidas DAX descritas arriba y arma tus propios visuales.
 
 ## 👤 Autor
 
